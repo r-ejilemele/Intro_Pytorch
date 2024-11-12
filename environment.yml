@@ -1,0 +1,11 @@
+name: intro_pytorch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch=2.5
+  - ipykernel
+  - matplotlib
+  - numpy
+  - torchvision
+prefix: C:\Users\rejil\miniforge3\envs\intro_pytorch
